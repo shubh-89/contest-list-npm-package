@@ -1,0 +1,14 @@
+{
+  "name": "my-contest-list",
+  "version": "1.0.0",
+  "description": "to get list of all the ongoing coding contests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
